@@ -1,4 +1,3 @@
-# learning-python-in-30-days
-My attempt at learning python in 30 days
+# Automate the boring stuff with python workthrough
 
 Day 1
