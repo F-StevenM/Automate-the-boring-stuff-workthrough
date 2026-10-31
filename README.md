@@ -1,4 +1,6 @@
-# learning-python-in-30-days
-My attempt at learning python in 30 days
+# Automate the boring stuff with python work through
 
-Day 1
+### Projects built using this book:
+
+- [Simple Calculator](https://github.com/F-StevenM/simple-terminal-calculator-in-python)
+- [Simple Unit Converter](https://github.com/F-StevenM/simple-conversion-calculator)
